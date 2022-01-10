@@ -1,7 +1,7 @@
 {
   "name": "@rmw/coffee-loader",
   "repository": "git@github.com:rmw-lib/coffee-loader.git",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "exports": {
     ".": "./lib/index.js",
     "./*": "./lib/*"
