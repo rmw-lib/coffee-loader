@@ -2,7 +2,6 @@
 
 # @rmw/coffee-loader
 
-
 ##  安装
 
 ```yarn add @rmw/coffee-loader ``` 或者 ``` npm install @rmw/coffee-loader```
@@ -10,9 +9,7 @@
 ## 使用
 
 ```
-#!/usr/bin/env coffee
-
-console.log 1
+node  --trace-warnings --es-module-specifier-resolution=node --trace-uncaught --expose-gc --experimental-loader "@rmw/coffee-loader" --unhandled-rejections=strict test/index.coffee
 ```
 
 ## 关于
