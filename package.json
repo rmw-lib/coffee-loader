@@ -18,9 +18,10 @@
   },
   "devDependencies": {
     "@rmw/console": "^0.0.20",
-    "@rmw/md-include": "^0.4.8",
+    "@rmw/md-include": "^0.4.8"
+  },
+  "dependencies": {
     "@rmw/source-map-support": "^0.5.24",
     "coffeescript": "^2.6.1"
-  },
-  "dependencies": {}
+  }
 }
