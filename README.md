@@ -1,11 +1,11 @@
 <!-- 本文件由 ./readme.make.md 自动生成，请不要直接修改此文件 -->
 
-# @rmw/coffee_template
+# @rmw/coffee-loader
 
 
 ##  安装
 
-```yarn add @rmw/coffee_template ``` 或者 ``` npm install @rmw/coffee_template```
+```yarn add @rmw/coffee-loader ``` 或者 ``` npm install @rmw/coffee-loader```
 
 ## 使用
 
@@ -13,9 +13,9 @@
 #!/usr/bin/env coffee
 
 import "@rmw/console/global"
-import coffee_template from '@rmw/coffee_template'
+import coffee-loader from '@rmw/coffee-loader'
 
-console.log await coffee_template()
+console.log await coffee-loader()
 ```
 
 ## 关于

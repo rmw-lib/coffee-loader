@@ -1,6 +1,6 @@
 {
-  "name": "@rmw/coffee_template",
-  "repository": "git@github.com:rmw-lib/coffee_template.git",
+  "name": "@rmw/coffee-loader",
+  "repository": "git@github.com:rmw-lib/coffee-loader.git",
   "version": "0.0.0",
   "exports": {
     ".": "./lib/index.js",
@@ -18,9 +18,9 @@
   },
   "devDependencies": {
     "@rmw/console": "^0.0.20",
+    "@rmw/md-include": "^0.4.8",
     "@rmw/source-map-support": "^0.5.24",
-    "coffeescript": "^2.6.1",
-    "@rmw/md-include": "^0.4.8"
+    "coffeescript": "^2.6.1"
   },
   "dependencies": {}
 }

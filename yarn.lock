@@ -42,10 +42,10 @@
     moment-timezone "^0.5.31"
     pkg-conf "^2.1.0"
 
-"@rmw/source-map-support@^0.5.22":
-  version "0.5.22"
-  resolved "https://registry.npmmirror.com/@rmw/source-map-support/download/@rmw/source-map-support-0.5.22.tgz#763019e57b415a25f1cfd5a8d1bb02d9ce9cf6b1"
-  integrity sha512-hluy2sy+IF4Pg8p29QtKs5w0shqY93TNHVveKWYFUp850oHOtXEWxGk73yVIm4brv31W7Hd/ADUQDEu2TuQX0w==
+"@rmw/source-map-support@^0.5.24":
+  version "0.5.24"
+  resolved "https://registry.npmmirror.com/@rmw/source-map-support/download/@rmw/source-map-support-0.5.24.tgz#83e4758cf8bca8b59536b3250ceffa23222a772e"
+  integrity sha512-Ghp4qffy81X1A1Y4EQ1cw0HgRCPsXUlTnj7rZr9dDPeXacJ4iCbGZbyyLjFAUalhpCEYuF1cwXKVR/W3NGSPsQ==
   dependencies:
     buffer-from "^1.0.0"
     source-map "^0.6.0"

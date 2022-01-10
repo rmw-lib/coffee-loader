@@ -1,9 +1,9 @@
-# @rmw/coffee_template
+# @rmw/coffee-loader
 
 
 ##  安装
 
-```yarn add @rmw/coffee_template ``` 或者 ``` npm install @rmw/coffee_template```
+```yarn add @rmw/coffee-loader ``` 或者 ``` npm install @rmw/coffee-loader```
 
 ## 使用
 
